@@ -1,12 +1,13 @@
-baseURL = "https://example.com/"
+baseURL = "https://qirh.github.io/mishari"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hallo"
+title = "Mishari Eldrissi"
 theme = "hallo"
+publishDir = "docs"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Hallo"
+    name = "Mishari"
 
 [params]
 
